@@ -77,28 +77,4 @@ A full-stack real-time chat application built with the MERN stack (MongoDB, Expr
 ![image](https://github.com/user-attachments/assets/0a11deb9-c748-414d-87ea-b216ab85fa4a)
 
 
-
-# Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-
-## **Deployment**  
-Deployed link:    *https://fullstack-chat-app-xoai.onrender.com/*
-The app is deployed on [Render](https://render.com) for a seamless full-stack experience.  
-
-
-### **Prerequisites**  
-- Node.js and npm installed  
-- MongoDB running locally or a MongoDB Atlas connection string
-
-## - Acknowledgments
-Render for deployment
-Cloudinary for image storage
-DaisyUI for themes
-
-### **Clone the Repository**  
-```bash
-git clone https://github.com/SamVerse/FullStack-Chat-App/
-cd FullStack-Chat-App
-
-
+ 
